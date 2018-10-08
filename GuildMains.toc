@@ -1,0 +1,15 @@
+## Interface: 80000
+## Title: Guild Mains
+## Version: 1.4.7
+## Notes: Puts the names of guildmate main characters in parenthesis on their messages, (c) 2009 - 2015 John Stephen
+## SavedVariables: GuildMains_Settings
+
+GuildMains_Prefix.lua
+
+MC2AddonLib.lua
+MC2DebugLib.lua
+MC2EventLib.lua
+MC2SchedulerLib.lua
+MC2GuildLib.lua
+
+GuildMains.lua
