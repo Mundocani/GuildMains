@@ -398,7 +398,7 @@ function GuildMains._CheckButton:Construct(pParent, pTitle)
 end
 
 ----------------------------------------
---
+-- Get notified when loaded
 ----------------------------------------
 
 GuildMains.EventLib:RegisterEvent("ADDON_LOADED", GuildMains.Initialize, GuildMains)
