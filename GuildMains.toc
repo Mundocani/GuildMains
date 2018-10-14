@@ -6,10 +6,10 @@
 
 GuildMains_Prefix.lua
 
-MC2AddonLib.lua
-MC2DebugLib.lua
-MC2EventLib.lua
-MC2SchedulerLib.lua
-MC2GuildLib.lua
+Libraries/MC2AddonLib/MC2AddonLib.lua
+Libraries/MC2DebugLib/MC2DebugLib.lua
+Libraries/MC2EventLib/MC2EventLib.lua
+Libraries/MC2SchedulerLib/MC2SchedulerLib.lua
+Libraries/MC2GuildLib/MC2GuildLib.lua
 
 GuildMains.lua
