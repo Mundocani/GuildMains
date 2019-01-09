@@ -1,6 +1,6 @@
 ## Interface: 80100
 ## Title: Guild Mains
-## Version: 1.4.9
+## Version: 1.4.10
 ## Notes: Puts the names of guildmate main characters in parenthesis on their messages, (c) 2009 - 2015 John Stephen
 ## SavedVariables: GuildMains_Settings
 
